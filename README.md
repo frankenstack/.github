@@ -1,3 +1,0 @@
-## Credits
-
-- <a href="https://www.flaticon.com/free-icons/export" title="export icons">Export icons created by Freepik - Flaticon</a>
